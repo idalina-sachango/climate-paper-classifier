@@ -1,0 +1,40 @@
+{
+    "Energy Storage, Conversion, and Utilization": [
+        "25 Energy Storage National Defense",
+        "29 Energy Planning, Policy, and Economy",
+        "30 Direct Energy Conversion National Defense",
+        "32 Energy Conservation, Consumption, and Utilization",
+        "33 Advanced Propulsion Systems"
+    ],
+    "Environmental Sciences": [
+        "54 Environmental Sciences"
+    ],
+    "Fossil Fuels": [
+        "1 Coal, Lignite, and Peat",
+        "2 Petroleum",
+        "3 Natural Gas",
+        "4 Oil Shales and Tar Sands"
+    ],
+    "Fission and Nuclear Technologies": [
+        "7 Isotope and Radiation Sources",
+        "11 Nuclear Fuel Cycle and Fuel Materials",
+        "12 Management Of Radioactive Wastes, and Non-Radioactive Wastes from Nuclear Facilities",
+        "21 Specific Nuclear Reactors and Associated Plants",
+        "22 General Studies of Nuclear Reactors"],
+    "Renewable Energy Sources": [
+        "8 Hydrogen",
+        "9 Biomass Fuels",
+        "10 Synthetic Fuels",
+        "13 Hydro Energy",
+        "2 Petroleum",
+        "14 Solar Energy",
+
+        "15 Geothermal Energy",
+        "4 Oil Shales and Tar Sands",
+        "16 Tidal and Wave Power",
+        "17 Wind Energy"
+    ],
+    "Geosciences": [
+        "58 Geosciences"
+    ]
+}
